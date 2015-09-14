@@ -1,0 +1,30 @@
+{
+    "name": "A Reason for Handwriting T",
+    "lessons": [
+        {"name": "M-1", "parts": 4},
+        {"name": "M-2", "parts": 4},
+        {"name": "M-3", "parts": 4},
+        {"name": "M-4", "parts": 4},
+        {"name": "M-5", "parts": 4},
+        {"name": "M-6", "parts": 4},
+        {"name": "M-7", "parts": 4},
+        {"name": "M-8", "parts": 4},
+        {"name": "M-9", "parts": 4},
+        {"name": "M-10", "parts": 4},
+        {"name": "M-11", "parts": 4},
+        {"name": "M-12", "parts": 4},
+        {"name": "M-13", "parts": 4},
+        {"name": "M-14", "parts": 4},
+        {"name": "M-15", "parts": 4},
+        {"name": "M-16", "parts": 4},
+        {"name": "M-17", "parts": 4},
+        {"name": "M-18", "parts": 4},
+        {"name": "T", "parts": 45},
+        {"name": "C-1", "parts": 4},
+        {"name": "C-2", "parts": 4},
+        {"name": "C-3", "parts": 4},
+        {"name": "C-4", "parts": 4},
+        {"name": "C-5", "parts": 4},
+        {"name": "C-6", "parts": 4}
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "name": "7 Habits for Kids",
+    "lessons": [
+        {"name": "Habit 1", "parts": 5},
+        {"name": "Habit 2", "parts": 5},
+        {"name": "Habit 3", "parts": 5},
+        {"name": "Habit 4", "parts": 5},
+        {"name": "Habit 5", "parts": 5},
+        {"name": "Habit 6", "parts": 5},
+        {"name": "Habit 7", "parts": 5}
+    ]
+}

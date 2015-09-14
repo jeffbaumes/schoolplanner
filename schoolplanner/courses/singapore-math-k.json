@@ -1,0 +1,26 @@
+{
+    "name": "Singapore Math K",
+    "lessons": [
+        {"name": "KA.1", "parts": 4},
+        {"name": "KA.2", "parts": 4},
+        {"name": "KA.3", "parts": 4},
+        {"name": "KA.4", "parts": 4},
+        {"name": "KA.5", "parts": 7},
+        {"name": "KA.6", "parts": 7},
+        {"name": "KA.7", "parts": 5},
+        {"name": "KA.8", "parts": 5},
+        {"name": "KA.9", "parts": 5},
+        {"name": "KA.10", "parts": 4},
+        {"name": "KB.11", "parts": 5},
+        {"name": "buffer", "parts": 6},
+        {"name": "KB.12", "parts": 5},
+        {"name": "KB.13", "parts": 5},
+        {"name": "KB.14", "parts": 5},
+        {"name": "KB.15", "parts": 5},
+        {"name": "KB.16", "parts": 5},
+        {"name": "KB.17", "parts": 4},
+        {"name": "KB.18", "parts": 5},
+        {"name": "KB.19", "parts": 5},
+        {"name": "KB.20", "parts": 5}
+    ]
+}

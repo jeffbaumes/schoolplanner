@@ -1,0 +1,27 @@
+{
+    "name": "Singapore Math 4",
+    "lessons": [
+        {"name": "4A.1", "parts": 14},
+        {"name": "4A.1 Review", "parts": 1},
+        {"name": "4A.2", "parts": 12},
+        {"name": "4A.2 Review", "parts": 1},
+        {"name": "4A.3", "parts": 19},
+        {"name": "4A.3 Review", "parts": 1},
+        {"name": "4A.4", "parts": 15},
+        {"name": "4A.4 Review", "parts": 1},
+        {"name": "4A.5", "parts": 6},
+        {"name": "4A.5 Review", "parts": 1},
+        {"name": "4B.6", "parts": 15},
+        {"name": "4B.6 Review", "parts": 1},
+        {"name": "4B.7", "parts": 20},
+        {"name": "4B.7 Review", "parts": 1},
+        {"name": "4B.8", "parts": 8},
+        {"name": "4B.8 Review", "parts": 1},
+        {"name": "4B.9", "parts": 4},
+        {"name": "4B.9 Review", "parts": 1},
+        {"name": "4B.10", "parts": 7},
+        {"name": "4B.10 Review", "parts": 1},
+        {"name": "4B.11", "parts": 6},
+        {"name": "4B.11 Review", "parts": 1}
+    ]
+}

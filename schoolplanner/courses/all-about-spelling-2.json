@@ -1,0 +1,30 @@
+{
+    "name": "All About Spelling 2",
+    "lessons": [
+        {"name": 1, "parts": 8},
+        {"name": 2, "parts": 6},
+        {"name": 3, "parts": 5},
+        {"name": 4, "parts": 5},
+        {"name": 5, "parts": 5},
+        {"name": 6, "parts": 5},
+        {"name": 7, "parts": 5},
+        {"name": 8, "parts": 5},
+        {"name": 9, "parts": 5},
+        {"name": 10, "parts": 5},
+        {"name": 11, "parts": 4},
+        {"name": 12, "parts": 5},
+        {"name": 13, "parts": 5},
+        {"name": 14, "parts": 5},
+        {"name": 15, "parts": 5},
+        {"name": 16, "parts": 6},
+        {"name": 17, "parts": 6},
+        {"name": 18, "parts": 6},
+        {"name": 19, "parts": 6},
+        {"name": 20, "parts": 6},
+        {"name": 21, "parts": 6},
+        {"name": 22, "parts": 6},
+        {"name": 23, "parts": 5},
+        {"name": 24, "parts": 5},
+        {"name": 25, "parts": 5}
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "name": "Singapore Math 3",
+    "lessons": [
+        {"name": "3A.1", "parts": 7},
+        {"name": "3A.1 Review", "parts": 1},
+        {"name": "3A.2", "parts": 10},
+        {"name": "3A.2 Review", "parts": 1},
+        {"name": "3A.3", "parts": 15},
+        {"name": "3A.3 Review", "parts": 1},
+        {"name": "3A.4", "parts": 20},
+        {"name": "3A.4 Review", "parts": 1},
+        {"name": "3A.5", "parts": 6},
+        {"name": "3A.5 Review", "parts": 1},
+        {"name": "3B.6", "parts": 9},
+        {"name": "3B.6 Review", "parts": 1},
+        {"name": "3B.7", "parts": 6},
+        {"name": "3B.7 Review", "parts": 1},
+        {"name": "3B.8", "parts": 5},
+        {"name": "3B.8 Review", "parts": 1},
+        {"name": "3B.9", "parts": 7},
+        {"name": "3B.9 Review", "parts": 1},
+        {"name": "3B.10", "parts": 12},
+        {"name": "3B.10 Review", "parts": 1},
+        {"name": "3B.11", "parts": 8},
+        {"name": "3B.11 Review", "parts": 1},
+        {"name": "3B.12", "parts": 4},
+        {"name": "3B.12 Review", "parts": 1},
+        {"name": "3B.13", "parts": 8},
+        {"name": "3B.13 Review", "parts": 1}
+    ]
+}

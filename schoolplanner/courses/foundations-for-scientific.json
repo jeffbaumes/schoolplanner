@@ -1,0 +1,125 @@
+{
+    "name": "Building Foundations for Scientific Understanding",
+    "lessons": [
+        {
+            "name": "A/B-1",
+            "desc": "Organizing Things Into Categories",
+            "pages": "39",
+            "parts": 4
+        },
+        {
+            "name": "A-2",
+            "desc": "Solids, Liquids, and Gases",
+            "pages": "45",
+            "parts": 4
+        },
+        {
+            "name": "B-2",
+            "desc": "Distinguishing Living, Natural Nonliving, and Human-made Things",
+            "pages": "127",
+            "parts": 4
+        },
+        {
+            "name": "C-1",
+            "desc": "Concepts of Energy I: Making Things Go",
+            "pages": "249",
+            "parts": 4
+        },
+        {
+            "name": "D-1",
+            "desc": "Gravity I: The Earth's Gravity; Horizontal and Vertical",
+            "pages": "309",
+            "parts": 4
+        },
+        {
+            "name": "C-2",
+            "desc": "Sound, Vibrations, And Energy",
+            "pages": "261",
+            "parts": 4
+        },
+        {
+            "name": "D-2",
+            "desc": "Day And Night And The Earth's Rotation",
+            "pages": "316",
+            "parts": 4
+        },
+        {
+            "name": "A-3",
+            "desc": "Air is a Substance",
+            "pages": "51",
+            "parts": 2
+        },
+        {
+            "name": "A-4",
+            "desc": "Matter I: Its Particulate Nature",
+            "pages": "57",
+            "parts": 2
+        },
+        {
+            "name": "A-5",
+            "desc": "Distinguishing Materials",
+            "pages": "64",
+            "parts": 4
+        },
+        {
+            "name": "A-5A",
+            "desc": "Magnets and Magnetic Fields",
+            "pages": "72",
+            "parts": 4
+        },
+        {
+            "name": "B-3",
+            "desc": "Distinguishing Between Plants and Animals: The Plant and Animal Kingdoms",
+            "pages": "145",
+            "parts": 4
+        },
+        {
+            "name": "B-4",
+            "desc": "Life Cycles",
+            "pages": "153",
+            "parts": 4
+        },
+        {
+            "name": "B-4A",
+            "desc": "Identification of Living Things: (Discerning Similarities and Differences)",
+            "pages": "161",
+            "parts": 4
+        },
+        {
+            "name": "B-4B",
+            "desc": "What is a Species?",
+            "pages": "166",
+            "parts": 2
+        },
+        {
+            "name": "D-3",
+            "desc": "Reading and Drawing Maps",
+            "pages": "321",
+            "parts": 2
+        },
+        {
+            "name": "D-3A",
+            "desc": "North, South, East, and West",
+            "pages": "327",
+            "parts": 2
+        },
+        {
+            "name": "C-3",
+            "desc": "Concepts of Energy II: Kinetic and Potential Energy",
+            "pages": "271",
+            "parts": 4
+        },
+        {
+            "name": "D-4",
+            "desc": "Land Forms and Major Biomes of the Earth",
+            "pages": "334",
+            "parts": 4
+        },
+        {
+            "name": "B-5",
+            "desc": "Food Chains and Adaptations",
+            "pages": "176",
+            "parts": 2
+        }
+    ]
+}
