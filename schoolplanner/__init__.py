@@ -109,7 +109,8 @@ def generate_pdf(subjects, num_weeks, out_file='out.pdf'):
                                 text += ', '
                             text += '<b>' + str(lesson['name'])
                             if lesson['parts'] > 1:
-                                text += '-' + str(s['cur_part']) + '</b>'
+                                text += '-' + str(s['cur_part'])
+                            text += '</b>'
 
                             s['cur_part'] += 1
                             if s['cur_part'] > lesson['parts']:
