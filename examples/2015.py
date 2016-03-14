@@ -2,6 +2,7 @@ from schoolplanner import *
 
 days = [1, 1, 0, 1, 1]
 five_days = [1, 1, 0, 1, 2]
+six_days = [1, 2, 0, 1, 2]
 skip_weeks = [1, 2, 3, 4]
 
 generate_pdf(
@@ -32,7 +33,7 @@ generate_pdf(
         subject('all-about-spelling', skip_weeks=skip_weeks, days=days,
                 start_lesson='3-1'),
     ],
-    num_weeks=36,
+    num_weeks=40,
     out_file='2015a.pdf'
 )
 
@@ -56,6 +57,6 @@ generate_pdf(
         subject('CC Review'),
         subject('Presentation')
     ],
-    num_weeks=36,
+    num_weeks=40,
     out_file='2015b.pdf'
 )
